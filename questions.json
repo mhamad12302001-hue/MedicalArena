@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "question": "أي مكوّن من مكونات الدم مسؤول بشكل أساسي عن نقل الأكسجين؟",
+    "options": [
+      "كريات الدم الحمراء",
+      "كريات الدم البيضاء",
+      "الصفائح الدموية",
+      "البلازما"
+    ],
+    "correct_answer": 0,
+    "explanation": "كريات الدم الحمراء تحتوي على الهيموغلوبين، الذي يرتبط بالأكسجين ويساعد على نقله إلى الأنسجة.",
+    "difficulty": "easy",
+    "category": "Hematology"
+  },
+  {
+    "id": 2,
+    "question": "ما الصبغة المستخدمة لتمييز البكتيريا إلى Gram-positive وGram-negative؟",
+    "options": [
+      "Ziehl-Neelsen stain",
+      "Gram stain",
+      "India ink",
+      "Giemsa stain"
+    ],
+    "correct_answer": 1,
+    "explanation": "صبغة Gram تُستخدم لتصنيف البكتيريا اعتماداً على خصائص جدارها الخلوي.",
+    "difficulty": "easy",
+    "category": "Microbiology"
+  },
+  {
+    "id": 3,
+    "question": "أي عضو يُنتج معظم عوامل التخثر في الدم؟",
+    "options": [
+      "الكبد",
+      "الطحال",
+      "البنكرياس",
+      "الغدة الدرقية"
+    ],
+    "correct_answer": 0,
+    "explanation": "الكبد مسؤول عن تصنيع معظم عوامل التخثر في الدم.",
+    "difficulty": "easy",
+    "category": "Clinical Chemistry"
+  }
+]
